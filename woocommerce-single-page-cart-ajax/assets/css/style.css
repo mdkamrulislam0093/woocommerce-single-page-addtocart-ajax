@@ -1,0 +1,3 @@
+.single-product .cart button:not(.the_custom_atc) {
+	display: none;
+}
